@@ -1,0 +1,249 @@
+Deck: 52
+Deck: 38
+Elaf has : Qh3c2s4d7d6s2d 
+Osaid has : Jc4hQcJs5hJd6c 
+Elaf's Book : 2s2d 
+Osaid's Book : JcJs 
+
+Elaf asks - do you have a 3?
+Osaid says - Go Fish!
+Elaf draws 10h
+Elaf has : Qh3c4d7d6s10h 
+
+Osaid asks - do you have a Q?
+Elaf says - Yes I have a Q
+Osaid books the Q
+
+Osaid asks - do you have a 5?
+Elaf says - Go Fish!
+Osaid draws 5c
+Osaid has : 4h5hJd6c5c 
+Osaid books 5h & the new drawn card 5c
+
+Elaf asks - do you have a 6?
+Osaid says - Yes I have a 6
+Elaf books the 6
+
+Elaf asks - do you have a 10?
+Osaid says - Go Fish!
+Elaf draws Kh
+Elaf has : 3c4d7d10hKh 
+
+Osaid asks - do you have a 4?
+Elaf says - Yes I have a 4
+Osaid books the 4
+
+Osaid asks - do you have a J?
+Elaf says - Go Fish!
+Osaid draws 9c
+Osaid has : Jd9c 
+
+Elaf asks - do you have a K?
+Osaid says - Go Fish!
+Elaf draws 4c
+Elaf has : 3c7d10hKh4c 
+
+Osaid asks - do you have a J?
+Elaf says - Go Fish!
+Osaid draws Kc
+Osaid has : Jd9cKc 
+
+Elaf asks - do you have a 4?
+Osaid says - Go Fish!
+Elaf draws Qs
+Elaf has : 3c7d10hKh4cQs 
+
+Osaid asks - do you have a J?
+Elaf says - Go Fish!
+Osaid draws 6h
+Osaid has : Jd9cKc6h 
+
+Elaf asks - do you have a 4?
+Osaid says - Go Fish!
+Elaf draws 10d
+Elaf has : 3c7d10hKh4cQs10d 
+Elaf books 10h & the new drawn card 10d
+
+Osaid asks - do you have a J?
+Elaf says - Go Fish!
+Osaid draws 3d
+Osaid has : Jd9cKc6h3d 
+
+Elaf asks - do you have a 4?
+Osaid says - Go Fish!
+Elaf draws 5d
+Elaf has : 3c7dKh4cQs5d 
+
+Osaid asks - do you have a 6?
+Elaf says - Go Fish!
+Osaid draws 8d
+Osaid has : Jd9cKc6h3d8d 
+
+Elaf asks - do you have a K?
+Osaid says - Yes I have a K
+Elaf books the K
+
+Elaf asks - do you have a 3?
+Osaid says - Yes I have a 3
+Elaf books the 3
+
+Elaf asks - do you have a 5?
+Osaid says - Go Fish!
+Elaf draws Ad
+Elaf has : 7d4cQs5dAd 
+
+Osaid asks - do you have a J?
+Elaf says - Go Fish!
+Osaid draws 10s
+Osaid has : Jd9c6h8d10s 
+
+Elaf asks - do you have a 7?
+Osaid says - Go Fish!
+Elaf draws 3h
+Elaf has : 7d4cQs5dAd3h 
+
+Osaid asks - do you have a 9?
+Elaf says - Go Fish!
+Osaid draws 8c
+Osaid has : Jd9c6h8d10s8c 
+Osaid books 8d & the new drawn card 8c
+
+Elaf asks - do you have a 7?
+Osaid says - Go Fish!
+Elaf draws Ah
+Elaf has : 7d4cQs5dAd3hAh 
+Elaf books Ad & the new drawn card Ah
+
+Osaid asks - do you have a 6?
+Elaf says - Go Fish!
+Osaid draws 6d
+Osaid has : Jd9c6h10s6d 
+Osaid books 6h & the new drawn card 6d
+
+Elaf asks - do you have a 7?
+Osaid says - Go Fish!
+Elaf draws 3s
+Elaf has : 7d4cQs5d3h3s 
+Elaf books 3h & the new drawn card 3s
+
+Osaid asks - do you have a 9?
+Elaf says - Go Fish!
+Osaid draws Jh
+Osaid has : Jd9c10sJh 
+Osaid books Jd & the new drawn card Jh
+
+Elaf asks - do you have a 5?
+Osaid says - Go Fish!
+Elaf draws 7c
+Elaf has : 7d4cQs5d7c 
+Elaf books 7d & the new drawn card 7c
+
+Osaid asks - do you have a 10?
+Elaf says - Go Fish!
+Osaid draws 7s
+Osaid has : 9c10s7s 
+
+Elaf asks - do you have a 5?
+Osaid says - Go Fish!
+Elaf draws 8h
+Elaf has : 4cQs5d8h 
+
+Osaid asks - do you have a 9?
+Elaf says - Go Fish!
+Osaid draws 9d
+Osaid has : 9c10s7s9d 
+Osaid books 9c & the new drawn card 9d
+
+Elaf asks - do you have a 8?
+Osaid says - Go Fish!
+Elaf draws 4s
+Elaf has : 4cQs5d8h4s 
+Elaf books 4c & the new drawn card 4s
+
+Osaid asks - do you have a 7?
+Elaf says - Go Fish!
+Osaid draws Ac
+Osaid has : 10s7sAc 
+
+Elaf asks - do you have a 5?
+Osaid says - Go Fish!
+Elaf draws 2h
+Elaf has : Qs5d8h2h 
+
+Osaid asks - do you have a 10?
+Elaf says - Go Fish!
+Osaid draws 7h
+Osaid has : 10s7sAc7h 
+Osaid books 7s & the new drawn card 7h
+
+Elaf asks - do you have a 2?
+Osaid says - Go Fish!
+Elaf draws As
+Elaf has : Qs5d8h2hAs 
+
+Osaid asks - do you have a A?
+Elaf says - Yes I have a A
+Osaid books the A
+
+Osaid asks - do you have a 10?
+Elaf says - Go Fish!
+Osaid draws 5s
+Osaid has : 10s5s 
+
+Elaf asks - do you have a 5?
+Osaid says - Yes I have a 5
+Elaf books the 5
+
+Elaf asks - do you have a 8?
+Osaid says - Go Fish!
+Elaf draws 2c
+Elaf has : Qs8h2h2c 
+Elaf books 2h & the new drawn card 2c
+
+Osaid asks - do you have a 10?
+Elaf says - Go Fish!
+Osaid draws 9s
+Osaid has : 10s9s 
+
+Elaf asks - do you have a Q?
+Osaid says - Go Fish!
+Elaf draws Kd
+Elaf has : Qs8hKd 
+
+Osaid asks - do you have a 9?
+Elaf says - Go Fish!
+Osaid draws 9h
+Osaid has : 10s9s9h 
+Osaid books 9s & the new drawn card 9h
+
+Elaf asks - do you have a Q?
+Osaid says - Go Fish!
+Elaf draws 10c
+Elaf has : Qs8hKd10c 
+
+Osaid asks - do you have a 10?
+Elaf says - Yes I have a 10
+Osaid books the 10
+Elaf says - Go Fish!
+Osaid draws 8s
+Osaid has : 8s 
+
+Elaf asks - do you have a Q?
+Osaid says - Go Fish!
+Elaf draws Ks
+Elaf has : Qs8hKdKs 
+Elaf books Kd & the new drawn card Ks
+
+Osaid asks - do you have a 8?
+Elaf says - Yes I have a 8
+Osaid books the 8
+Elaf says - Go Fish!
+Osaid draws Qd
+Osaid has : Qd 
+
+Elaf asks - do you have a Q?
+Osaid says - Yes I have a Q
+Elaf books the Q
+Elaf Books are 26
+Osaid Books are 26
+How cool!! It's a tie.
